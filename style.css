@@ -26,4 +26,17 @@ width: 20%;
 
 .Escola{
     background-image: linear-gradient(#2063cf, #4371bb);
+    color: aliceblue;
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.Escola-div-conteudo{
+    width: 35% ;
+}
+
+.Escola-titulo{
+    padding: 24px 0;
 }
