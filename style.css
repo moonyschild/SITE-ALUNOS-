@@ -40,3 +40,15 @@ width: 20%;
 .Escola-titulo{
     padding: 24px 0;
 }
+
+.estudante-icone{
+    width: 24px;
+}
+
+.estudante-div{
+    text-align: center;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
